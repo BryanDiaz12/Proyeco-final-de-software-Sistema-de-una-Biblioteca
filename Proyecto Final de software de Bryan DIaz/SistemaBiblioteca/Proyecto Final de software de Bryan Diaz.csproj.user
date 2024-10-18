@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Vistas\FormAgregarLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormAgregarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormBusquedaAvanzada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormConsultasReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormVerEditarLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormVerEditarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormVerEditarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
