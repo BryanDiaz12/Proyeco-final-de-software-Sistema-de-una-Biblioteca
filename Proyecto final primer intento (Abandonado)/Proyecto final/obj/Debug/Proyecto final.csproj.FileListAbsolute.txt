@@ -1,0 +1,10 @@
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\braya\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
